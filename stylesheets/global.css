@@ -1,0 +1,52 @@
+body.folio {
+  background-color: #FFFFFF;
+  padding: 20px 0;
+}
+
+h3 {
+  color: #8DA600;
+}
+
+h1 { 
+  color: #3C3D36;
+}
+
+a, a:visited {
+  color: #A72B59;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #A72B59;
+}
+
+a:active, a:focus {
+  outline: 0;
+}
+
+a.noborder {
+  border: 0;
+}
+
+div.section {
+  margin: 20px 0;
+}
+
+div#footer {
+  text-align: right;
+}
+
+ul#twitter_update_list {
+  list-style: none;
+  margin-left: 0;
+}
+
+ul#twitter_update_list li {
+  list-style: none;
+}
+
+h2#greeting span {
+  color: #0A6166;
+}
